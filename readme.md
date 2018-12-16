@@ -1,2 +1,2 @@
-# Git lecture for noobs
+# Git lecture for a noob
 Yes, i am.
