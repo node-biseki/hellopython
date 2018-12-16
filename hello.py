@@ -1,4 +1,5 @@
-#hello inori
+#hello >>>>>inori<<<<<
+#You should put only 2nd commandline-arg "inori".
 
 from sys import argv
 
