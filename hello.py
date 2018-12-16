@@ -1,9 +1,5 @@
 #hello inori
 
-import sys
+from sys import argv
 
-args = sys.argv
-if len(args) != 2 :
-    args.insert(1, 'world') 
-
-print('hello, {}'.format(args[1]))
+print('hello, {}'.format(args[1] if len(argv) == 2 else "world"))
